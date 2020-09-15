@@ -1,0 +1,82 @@
+
+.topheading{
+margin-top:-20px;
+   background-color:lightgrey;
+  padding-bottom:20px;
+  padding-top:10px;
+  opacity:0.8;
+  
+}
+.logo {
+    height: 60px;
+    margin-top:-90px;
+    margin-left:20px;
+    margin-bottom:20px;
+}
+.profilename{
+  text-align:right;
+  margin-right:30px;
+  font-size:15px;
+   margin-top:-60px;
+   color:red;
+}
+.title{
+    text-align:center;
+    font-size:25px;
+    margin-top:50px;
+    color:rgb(97, 96, 96)
+}
+
+.hometable{
+  margin-left:430px;
+}
+.heading{
+  text-align:center;
+ font-size:30px;
+ margin-top:40px;
+ color:black;
+}
+.paddingLeft20 {
+  padding-left: 20px;
+}
+
+
+.profiletitle{
+  text-align: center;
+}
+.profileImg {
+  height: 150px;
+  width:100px;
+margin-left: 470px;
+}
+.profiledatahead{
+  
+  margin-top: -163px;
+  margin-left: 590px;
+}
+.profiledata{
+  margin-top: -42px;
+  margin-left: 705px;
+  margin-bottom: 170px; 
+}
+.profiledatahead1{
+  margin-left: 590px;
+  margin-top: -50px;
+}
+.profiledata1{
+    margin-top: -152px;
+   margin-left: 705px;
+   margin-bottom: 170px;
+    width: 200;
+}
+
+.detailtable{
+  text-align: left;
+  margin-left:510px;
+}
+.detailtabledata{
+  padding-left:20px;
+}
+
+
+
